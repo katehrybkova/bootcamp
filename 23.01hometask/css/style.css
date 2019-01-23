@@ -11,7 +11,7 @@ li {
 }
 
 .firstlist {
-    margin: 10px 120px 0 0;
+    margin: 10px 190px 15px 0;
 }
 
 a {
@@ -42,7 +42,7 @@ main {
 }
 
 img {
-    height: 250px;
+    height: 400px;
     width: 100%;
     text-align: center;
     margin: auto;
@@ -67,5 +67,5 @@ h2 {
 }
 
 .indent {
-    margin: 10px 120px 0;
+    margin: 10px 190px 15px;
 }
