@@ -69,3 +69,11 @@ h2 {
 .indent {
     margin: 10px 190px 15px;
 }
+footer {
+text-align: center;
+}
+.buttonstyle {
+width: 163px;
+height: 59px;
+margin: 15px;
+}
