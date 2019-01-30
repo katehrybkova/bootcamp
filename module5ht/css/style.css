@@ -1,0 +1,36 @@
+li {
+    list-style: none;
+float: left;
+width: 100px;
+}
+.navigation {
+    float: right;
+}
+.left {
+    float: left;
+
+}
+nav {
+    height: 50px;
+    padding-top: 25px;
+    margin-bottom: 65px;
+}
+.wrapper {
+    max-width: 80%;
+    margin: auto;
+}
+.seagreen{
+    color: mediumseagreen;
+        }
+main {
+height: 600px;
+background-image: url(../images/back.png);
+width: 100%;
+    background-size: cover;
+}
+.klearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+    margin-bottom: 70px;
+}
